@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vase  .::RAWscan::.
+* source:	https://sketchfab.com/3d-models/vase-rawscan-98a29620a45e47ccb80a75d5416c8255
+* author:	Andrea Spognetta (Spogna) (https://sketchfab.com/spogna)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vase  .::RAWscan::." (https://sketchfab.com/3d-models/vase-rawscan-98a29620a45e47ccb80a75d5416c8255) by Andrea Spognetta (Spogna) (https://sketchfab.com/spogna) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
